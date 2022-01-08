@@ -18,8 +18,8 @@
         <version.war.plugin>2.3</version.war.plugin>
         <maven.compiler.target>1.6</maven.compiler.target>
         <maven.compiler.source>1.6</maven.compiler.source>
-        <drools.version>5.3.5.Final</drools.version>
-        <jbpm.version>5.2.5.Final</jbpm.version>
+        <drools.version>6.0.0.Final</drools.version>
+        <jbpm.version>6.0.0.Final</jbpm.version>
         <infinispan.version>5.2.0.Final</infinispan.version>
     </properties>
 
