@@ -12,7 +12,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<drools.version>6.0.2-redhat-6</drools.version>
+		<drools.version>7.69.0.Final</drools.version>
 		<kie-api.version>6.0.2-redhat-6</kie-api.version>
 		<!-- <drools.version>6.0.2-redhat-6</drools.version> <drools.version>6.0.2-SNAPSHOT</drools.version> -->
 	</properties>
